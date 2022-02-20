@@ -1,6 +1,10 @@
 # Express.js_NoteTaker
 
+## github repo:
  https://github.com/htariku/Express.js_NoteTaker
+
+ ## heroku link:
+ https://notetaker1198.herokuapp.com/
  
    # Description
 GIVEN a note-taking application
@@ -17,7 +21,9 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
+<img width="1009" alt="Screen Shot 2022-02-20 at 5 40 46 PM" src="https://user-images.githubusercontent.com/94089824/154867610-9bfebf38-da12-421a-babb-e5fefe292c15.png">
 
+<img width="1027" alt="Screen Shot 2022-02-20 at 5 40 04 PM" src="https://user-images.githubusercontent.com/94089824/154867615-e2195831-f5ab-4487-83ce-57c549c78ff1.png">
 
 
 
@@ -30,7 +36,12 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
  
    # Installation: 
-   
+   - express package 
+   - inquire package 
+   - npm install 
+   - heroku
+   - starter code given
+
  
    # Usage 
    
