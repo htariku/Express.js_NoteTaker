@@ -28,7 +28,7 @@ app.get('/api/notes', function(req, res) {
         res.json(JSON.parse(data))
     })
 })
-
+// post response for note taker 
 app.post('/api/notes', function(req, res) {
     const currentNote = {
         title: req.body.title,
@@ -46,7 +46,7 @@ app.post('/api/notes', function(req, res) {
         res.sendFile(path.join(__dirname, '/public/notes.html'))
     })
 })
-
+// function to delete saved notes 
 app.delete('/api/notes/:id', function(req, res) {
     const clicked = req.params.id
     fs.readFile('./db/db.json', 'utf-8', function(err, data) {

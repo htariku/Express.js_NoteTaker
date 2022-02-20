@@ -56,7 +56,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
  
  
    # Questions 
-   If you have any further questions or inquieres about the repository, feel free to open an issue or contact my GitHub ar htariku my e-mail at: hgtariku@yahoo.com.
+   If you have any further questions or inquieres about the repository, feel free to open an issue or contact my GitHub ar htariku my e-mail at: hgtariku@yahoo.com
  
    
  
